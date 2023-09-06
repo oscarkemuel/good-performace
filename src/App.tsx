@@ -23,8 +23,8 @@ export default function App(): ReactElement {
     <SafeAreaProvider>
       <SafeAreaView style={styles.container}>
         <Text style={styles.emoji}>😻</Text>
-        <Text style={styles.text}>Open src/App.tsx to start working on your app!</Text>
-        <Text>Happy hacking! 🙌🏻</Text>
+        <Text style={styles.text}>Hello world!</Text>
+        <Text>GOOD! 🙌🏻</Text>
       </SafeAreaView>
     </SafeAreaProvider>
   )
